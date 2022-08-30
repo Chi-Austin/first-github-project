@@ -1,0 +1,2 @@
+started with vsc and installed the extensions; Live server(Ritwick Dey)
+-and Mithril Emmot(FallenMax) for faster and easier developement
